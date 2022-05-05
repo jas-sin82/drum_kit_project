@@ -9,4 +9,4 @@ In this project I have used HTML for structure, css for style to make Game more 
 ## Screenshot of project 
 # Desktop, Ipad, laptop  & Mobile
   
-![screenshot](images\Screenshot-project.png)
+![screenshot](Screenshot-project.png)
